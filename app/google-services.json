@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1086004711146",
+    "project_id": "medicalhomepage",
+    "storage_bucket": "medicalhomepage.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086004711146:android:961df8af4e1478872fd193",
+        "android_client_info": {
+          "package_name": "com.example.medicalhomepage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1086004711146-4qiav278gfp177k6a7c0in7434c68kp9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3CY-jvb_72VVwxH2r80NwZaB0jDQU2H8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1086004711146-4qiav278gfp177k6a7c0in7434c68kp9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
